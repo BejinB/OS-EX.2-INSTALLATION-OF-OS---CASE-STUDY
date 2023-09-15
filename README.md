@@ -23,17 +23,20 @@ You'll need installation media for your chosen OS. This could be a DVD, USB flas
 
 Step 4: Insert the Installation Media
 Insert the installation media into your computer's DVD drive or USB port, depending on the type of media you are using.
- ![image](https://github.com/BejinB/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118367518/1f1c47dd-fb22-4b04-9695-a3398f7302cf)
+
+![image](https://github.com/BejinB/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118367518/1f1c47dd-fb22-4b04-9695-a3398f7302cf)
 
 
 Step 5: Boot from the Installation Media
 You'll need to boot your computer from the installation media. To do this, you may need to access the BIOS or UEFI settings. During the computer's startup, press the appropriate key (often displayed on the screen) to access the BIOS or UEFI. In the BIOS/UEFI settings, change the boot order to prioritize the installation media (DVD or USB drive).
- ![image](https://github.com/BejinB/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118367518/130f4b9e-e82b-4a81-a899-8e10e7671b87)
+
+![image](https://github.com/BejinB/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118367518/130f4b9e-e82b-4a81-a899-8e10e7671b87)
 
 
 Step 6: Start the Installation
 Once your computer is set to boot from the installation media, restart your computer. It should now boot from the installation media, and you'll see the OS installation screen. Follow the on-screen prompts to begin the installation.
- ![image](https://github.com/BejinB/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118367518/46a3f8cb-07fc-4ba0-8f44-b0d2f74cd89b)
+
+![image](https://github.com/BejinB/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118367518/46a3f8cb-07fc-4ba0-8f44-b0d2f74cd89b)
 
 
 Step 7: Choose Installation Options
